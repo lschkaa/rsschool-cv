@@ -1,5 +1,15 @@
 # **Olesia Fadeeva**
 ## Contacts
 **E-mail**: lschkaaaa@gmail.com
+
 **Tg**: lschkaa
+
 **Ig**: lschkaa
+## About me
+**Objective**: To become a sought-after IT professional, developing in frontend development, with the opportunity to further study UX/UI design and project management
+
+**Priorities**: Gain practical experience of working in an IT company, consolidate theoretical knowledge gained at university and develop the necessary skills for a successful career
+
+**Strengths**: Commitment and responsibility
+
+**Work experience**: none
