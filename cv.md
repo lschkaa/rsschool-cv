@@ -13,3 +13,8 @@
 **Strengths**: Commitment and responsibility
 
 **Work experience**: none
+## Skills
++ Python
++ Kotlin
++ C++ and Java (beginner)
++ Git
