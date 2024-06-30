@@ -18,3 +18,7 @@
 + Kotlin
 + C++ and Java (beginner)
 + Git
+
+## Education
++ RTU MIREA ("Informatics and Computer Science")
++ Samsung IT Academy "Mobile development on Kotlin"
