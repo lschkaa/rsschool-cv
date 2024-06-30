@@ -5,6 +5,10 @@
 **Tg**: lschkaa
 
 **Ig**: lschkaa
+
+**Discord**: lschkaa
+
+**GitHub**: lschkaas
 ## About me
 **Objective**: To become a sought-after IT professional, developing in frontend development, with the opportunity to further study UX/UI design and project management
 
