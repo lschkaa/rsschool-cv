@@ -22,3 +22,8 @@
 ## Education
 + RTU MIREA ("Informatics and Computer Science")
 + Samsung IT Academy "Mobile development on Kotlin"
+
+## Languages
++ Russian (native speaker)
++ English (B2)
++ German (A2)
