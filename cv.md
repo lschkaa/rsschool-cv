@@ -1,4 +1,4 @@
-# **Olesia Fadeeva**
+# **Lesia Fadeeva**
 ## Contacts
 **E-mail**: lschkaaaa@gmail.com
 
@@ -8,7 +8,7 @@
 
 **Discord**: lschkaa
 
-**GitHub**: lschkaas
+**GitHub**: lschkaa
 ## About me
 **Objective**: To become a sought-after IT professional, developing in frontend development, with the opportunity to further study UX/UI design and project management
 
