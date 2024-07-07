@@ -1,0 +1,315 @@
+/* GENERAL */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #fffceb;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* HEADER */
+
+.header {
+    background-color: #e9a4b7;
+    font-family: 'Gluten';
+    font-weight: 700;
+    font-size: 22px;
+    text-align: center;
+}
+
+ul#nav li {
+    position: relative;
+    list-style: none;
+    height: 48px;
+    display: inline-block;
+}
+
+ul#nav li a {
+    display: inline-block;
+    padding: 8px 13px;
+    line-height: 32px;
+    text-decoration: none;
+    text-align: left;
+    color: #fffceb;
+}
+
+/* MAIN */
+
+.main {
+    background-color: #fffceb;
+}
+
+/* INTRO */
+
+.profile-pic {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 240px;
+    height: 240px;
+}
+
+#intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: left;
+}
+
+.introPhoto,
+.introText {
+    margin-top: 40px;
+}
+
+.introText {
+    margin-left: 20px;
+}
+
+#intro h1,
+#intro h2,
+#intro p {
+    font-family: 'Gluten';
+    font-weight: 700;
+}
+
+#hi {
+    font-size: 90px;
+    color: #e9a4b7;
+}
+
+#myNameIs {
+    font-size: 35px;
+    color: #000000;
+}
+
+#name {
+    font-size: 50px;
+    color: #e9a4b7;
+}
+
+#about {
+    font-size: 22px;
+    color: #000000;
+}
+
+/* LINE */
+
+.line {
+    height: 3px;
+    background-color: #e9a4b7;
+    width: 100%;
+    margin-top: 40px;
+}
+
+/* TITLE'S BLOCKS */
+
+.title {
+    width: 320px;
+    height: 50px;
+    margin-top: 30px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rectangle {
+    width: 320px;
+    height: 45px;
+    background: #e9a4b7;
+    border-radius: 0px 30px 30px 0px;
+    position: absolute;
+}
+
+.text {
+    color: #fffceb;
+    font-size: 30px;
+    font-family: 'Gluten';
+    font-weight: 700;
+    position: relative;
+    margin-left: 80px;
+}
+
+/* ABOUT ME */
+
+.aboutMeText {
+    line-height: 1.2;
+    margin-top: 30px;
+    padding-left: 120px;
+    padding-right: 30px;
+    font-size: 22px;
+}
+
+/* LANGUAGES */
+
+.languages {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.language {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.languageName {
+    font-family: 'Gluten';
+    font-weight: 700;
+    font-size: 22px;
+    color: #e9a4b7;
+    margin-top: 10px;
+}
+
+.languageLevel {
+    font-family: 'Gluten';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/* EDUCATION */
+
+.education {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.educationName {
+    font-family: 'Gluten';
+    font-weight: 700;
+    font-size: 30px;
+    color: #e9a4b7;
+}
+
+.educationDate {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.educationSpeciality {
+    font-size: 20px;
+}
+
+/* EXPERIENCE */
+
+.experience {
+    margin-top: 40px;
+    margin-left: 120px;
+}
+
+.experience a {
+    font-size: 30px;
+    font-family: 'Gluten';
+    font-weight: 700;
+    color: #e9a4b7;
+    text-decoration: none;
+}
+
+.experience a:link,
+.contactMe a:visited {
+    color: #e9a4b7;
+}
+
+.experience a:hover,
+.contactMe a:active {
+    color: #d88aa8;
+}
+
+/* SKILLS */
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    margin-left: 170px;
+    margin-top: 30px;
+    font-size: 22px;
+}
+
+/* CODE */
+
+.codeText {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+/* CONTACTS */
+
+.contacts {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contactMe {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-family: 'Gluten';
+    font-weight: 700;
+    color: #e9a4b7;
+}
+
+ul#contactMe li {
+    position: relative;
+    list-style: none;
+    display: inline-block;
+}
+
+.contactMe a {
+    color: #e9a4b7;
+    text-decoration: none;
+}
+
+.contactMe a:link,
+.contactMe a:visited {
+    color: #e9a4b7;
+}
+
+.contactMe a:hover,
+.contactMe a:active {
+    color: #d88aa8;
+}
+
+/* FOOTER */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f7ccd3;
+    height: 70px;
+    font-family: 'Gluten';
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.footerText {
+    margin-left: 30px;
+    color: #fffceb;
+}
+
+.footerImages {
+    display: flex;
+    margin-right: 30px;
+}
+
+.footerImages a img {
+    margin-left: 15px;
+}
