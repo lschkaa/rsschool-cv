@@ -1,1 +1,1 @@
-Link: https://lschkaa.github.io/rsschool-cv/cv
+Link: https://lschkaa.github.io/rsschool-cv/
